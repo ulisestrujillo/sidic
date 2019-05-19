@@ -44,10 +44,10 @@ return array(
 			'allowAutoLogin'=>true,
 		),
 		'db'=>array(
-			'connectionString' => 'mysql:host=localhost;dbname=sidic_productivo',
+			'connectionString' => 'mysql:host=az1-ls12.a2hosting.com;dbname=prowebah_sidicprod',
 			'emulatePrepare' => true,
-			'username' => 'root',
-			'password' => '',
+			'username' => 'prowebah_root',
+			'password' => 'megast3rion_123',
 			'charset' => 'utf8',
 		),
 		'errorHandler'=>array(
