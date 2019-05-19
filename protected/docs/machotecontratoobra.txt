@@ -1,0 +1,196 @@
+﻿<center>CONTRATO DE PRESTACI&Oacute;N DE SERVICIOS</center><br/><p>CONTRATO DE OBRA QUE CELEBRAN, POR UNA PARTE {contratista}
+POR SU PROPIO DERECHO (EN LO SUCESIVO SE LE REFERIR&aacute; COMO EL “CONTRATISTA”) Y POR
+OTRA PARTE, {contratante}, REPRESENTADA EN
+ESTE ACTO POR EL SEÑOR {representante}, (EN LO SUCESIVO SE LE
+REFERIR&Aacute; EL “CONTRATANTE”).</p>
+<br/><br/><b>DECLARACIONES</b><p>
+I.- Declara el CONTRATISTA bajo protesta de decir verdad:
+(a) Ser una persona f&iacute;sica, de nacionalidad Mexicana, mayor de edad, con capacidad natural y legal para
+obligarse en los t&eacute;rminos de este Contrato, debidamente inscrito en el Registro Federal de
+Contribuyentes bajo la clave {clavecontribuyente} y registro Patronal {registropatronal} al corriente en el pago
+de sus impuestos.
+</p><p>
+(b) Que cuenta con el tiempo suficiente y necesario, as&iacute; como con la capacidad, equipo y personal
+necesario para llevar a cabo la prestaci&oacute;n de los servicios materia de este contrato.
+</p><p>
+(c) Que la celebraci&oacute;n del presente Contrato no contraviene el cumplimiento de las obligaciones que a su
+cargo se establecen en el mismo no contravendr&aacute; ninguna disposici&oacute;n legal, reglamentaria o
+contractual a la que el CONTRATISTA est&eacute; sujeto.
+</p><p>
+(d) Que es su deseo celebrar el presente contrato, para lo cual ha obtenido todas las autorizaciones 
+que son necesarias.
+</p><p>
+II.- Declara la CONTRATANTE, por conducto de su Representante Legal y bajo protesta de decir verdad:
+</p><p>
+(a) Que su representada es una Sociedad An&oacute;nima de Capital Variable, legalmente constituida conforme a
+las Leyes Mexicanas, e inscrita en el Registro Público de la Propiedad y del Comercio del municipio de
+Culiac&aacute;n, Sinaloa.
+</p><p>
+(b) Que en su calidad de Representante Legal de la CONTRATANTE, cuenta con las facultades suficientes,
+para suscribir el presente Contrato, y dichas facultades no han sido revocadas, limitadas o modificadas
+en forma alguna.
+</p><p>
+(c) Que la sociedad mercantil tiene como objetos, administrar, controlar, proyectar y supervisar
+cualesquier tipo de Construcci&oacute;n, incluyendo centros comerciales, urbanizaciones y desarrollos de
+vivienda, fraccionamientos y condominios para uso habitacional, comercial, industrial y tur&iacute;stico;
+ejecutados por terceros ya sean personas f&iacute;sicas o morales.
+</p><p>
+(d) Que la celebraci&oacute;n del presente Contrato no contraviene el cumplimiento de sus obligaciones,
+derivadas del mismo y no contravendr&aacute; ninguna disposici&oacute;n legal, reglamentaria, contractual o
+estatutaria a la que &eacute;l o sus bienes est&eacute;n sujetos.
+En virtud de lo anterior, las partes est&aacute;n conformes y convienen en otorgar las siguientes:
+</p><p>
+<b>CLAUSULAS</b>
+<b>PRIMERA</b>.- SERVICIOS OBJETO DEL CONTRATO.- Con estricta sujeci&oacute;n a las estipulaciones del
+presente Contrato, el CONTRATISTA se obliga y conviene en prestar a la CONTRATANTE
+el siguiente servicio: {serviciosubcontratar} No. {numeroordendecompra}. 
+En lo sucesivo y para efectos del presente
+contrato se le denominar&aacute; “La Obra”.
+Para la realizaci&oacute;n de La Obra, el CONTRATISTA usar&aacute; su propio equipo, maquinaria,
+herramientas y trabajadores.
+Se menciona como anexo A la orden de compra la cual deber&aacute; estar firmada de recibido por
+la persona que suscriba el contrato. {direcciondelcontratante}
+</p><p>
+<b>SEGUNDA</b>.- RESPONSABILIDAD EXCLUSIVA DEL PRESTADOR.- Queda expresamente convenido
+en que no existir&aacute;n relaciones laborales ni de ninguna otra &iacute;ndole entre la CONTRATANTE y
+el personal, empleados o trabajadores que el CONTRATISTA pudiere tener y que utilizar&aacute; en
+La Obra, por lo que en el supuesto de que la CONTRATANTE llegare a recibir cualquier
+reclamaci&oacute;n respecto de dichos empleados o trabajadores, incluy&eacute;ndose en forma enunciativa
+m&aacute;s no limitativa, autoridades del IMSS, del INFONAVIT, de la Secretar&iacute;a de Hacienda y
+Cr&eacute;dito Público as&iacute; como de cualesquier autoridad laboral, el CONTRATISTA se obliga a
+liberar a la CONTRATANTE de toda responsabilidad y daños, y a reembolsarle, en su caso,
+cualquier erogaci&oacute;n que hubiese tenido que realizar con tal motivo, ya que el CONTRATISTA
+es quien ostenta la relaci&oacute;n de trabajo con los empleados que prestan el servicio a la
+CONTRATANTE.
+En garant&iacute;a del cumplimiento de las obligaciones fiscales y laborales que el CONTRATISTA
+de manera expresa y absoluta asume como su responsabilidad, las partes acuerdan que el
+CONTRATANTE no realizar&aacute; retenci&oacute;n alguna sobre el valor de las facturas que por avance
+de obra el CONTRATISTA presente al cobro, esto si y solo si el CONTRATISTA da de alta
+la obra o en su caso parte de la obra como subcontrato de obra, ante el IMSS; en caso
+contrario, si as&iacute; lo solicitara la dependencia se le realizar&aacute; la retenci&oacute;n de pagos en los
+porcentajes que la autoridad solicite por escrito, mismos que correr&aacute;n efecto en los pagos
+posteriores a la notificaci&oacute;n, los que ser&aacute;n devueltos al contratista una vez que &eacute;ste presente
+el comprobante de la Constancia De Cumplimiento de No Adeudos de este contrato ante el
+IMSS y/o otra dependencia.
+</p><p>
+<b>TERCERA</b>.- CONTRAPRESTACI&oacute;N POR LOS SERVICIOS MATERIA DEL CONTRATO.
+Por los servicios prestados por el CONTRATISTA, as&iacute; como por el cumplimiento de las
+obligaciones que a su cargo se derivan, la CONTRATANTE en concepto de contraprestaci&oacute;n
+concede pagar al CONTRATISTA la cantidad de $ {cantidadpagar} ***(SON:{cantidadpagarconletra}
+)*** por el trabajo solicitado ({partidas}), por el concepto de lo
+descrito en la orden de compra número {numeroordendecompra} anexa a &eacute;ste contrato que concierne a mano de
+obra, dicha contraprestaci&oacute;n deber&aacute; ser pagada por la
+CONTRATANTE por transferencia electr&oacute;nica y a favor del CONTRATISTA, conforme se
+efectúe y se compruebe al avance de la obra.
+Ser&aacute; obligaci&oacute;n del CONTRATISTA presentar a la CONTRATANTE la factura que cumpla
+con las disposiciones fiscales previo a cada cobro de conformidad con la presente cl&aacute;usula.
+As&iacute; mismo, las partes aceptan que la CONTRATANTE deber&aacute; de retener los porcentajes
+correspondientes de impuesto sobre la renta e impuesto al valor agregado, en caso de existir y
+ubicarse en dicho supuesto el CONTRATISTA, de cada pago de avance de obra. Las
+condiciones de dicho trabajo mueble ser&aacute;n pactadas en la orden de compra anexa a &eacute;ste
+contrato.
+Queda establecido que ser&aacute; obligaci&oacute;n del CONTRATISTA pagar, a su exclusivo cargo y
+costo, todos los gastos que requiera de Hospedaje, Alimentaci&oacute;n, Trasporte, y cualesquiera
+que resulte durante los trabajos a que se refiere el presente instrumento.
+</p><p><b>CUARTA</b>.- OBLIGACIONES DEL CONTRATISTA.- Con independencia de las dem&aacute;s obligaciones que
+se deriven del presente Contrato, son obligaciones del CONTRATISTA:
+a) -------- acatar en todo momento las instrucciones---- que le instruya la CONTRATANTE por
+conducto de su representante legal y con respecto a la prestaci&oacute;n de los servicios materia de
+este Contrato.
+b) --- los servicios requisitados por la CONTRATANTE en tiempo y forma y de conformidad con
+lo estipulado en el presente Contrato.
+c) Cumplir con todas las obligaciones fiscales a su cargo y que se deriven de los ordenamientos
+fiscales tributarios aplicables en el pa&iacute;s.
+d) En general, todas y cada una de las dem&aacute;s derivadas del presente instrumento.
+</p><p><b>QUINTA</b>.- FACULTADES DE LA CONTRATANTE.- Con independencia de las dem&aacute;s facultades que
+se deriven del presente Contrato, son derechos de la CONTRATANTE:
+a) Solicitar al CONTRATISTA cualesquier otro servicio que sea consecuencia o conexos con los
+servicios materia de este contrato.
+b) Dar por terminado con el presente contrato en cualesquier momento, con la única obligaci&oacute;n
+de pagar al CONTRATISTA los honorarios y gastos que ya hayan sido efectivamente
+devengados hasta el momento de la terminaci&oacute;n del presente instrumento.
+c) Es facultad de la CONTRATANTE retener y descontar al CONTRATISTA todo importe
+relativo a cargos por daños, retrasos (tiempos muertos) y p&eacute;rdidas ocasionadas a la
+CONTRATANTE y/u otros prestadores.
+d) es derecho de la contratante el nombramiento de un supervisor de obra que tendr&aacute; facultades
+para hacer las observaciones necesarias y modificaciones que indique la contratante a la
+contratista, previo acuerdo por escrito y firmado entre partes.
+</p><p><b>SEXTA</b>.- OBLIGACIONES DE LA CONTRATANTE.- Con independencia de las dem&aacute;s obligaciones
+que se deriven del presente Contrato, son obligaciones de la CONTRATANTE:
+a) Pagar todos y cada uno de los gastos relacionados con la prestaci&oacute;n de servicios por parte del
+CONTRATISTA.
+b) En general, todas y cada una de las dem&aacute;s derivadas del presente instrumento.
+</p><p><b>SEPTIMA</b>.- VIGENCIA DEL CONTRATO.- Las partes aceptan y convienen en que el CONTRATISTA
+terminar&aacute; la obra en forma total y de conformidad con lo cotizado anexo al presente contrato,
+en un plazo que no deber&aacute; de exceder del {vigenciacontrato}.
+El plazo para la terminaci&oacute;n de la obra podr&aacute; ser extendido, única y exclusivamente en caso
+fortuito o fuerza mayor. Igualmente las partes convienen que el presente Contrato podr&aacute; ser
+rescindido, sin culpa o responsabilidad alguna para las partes, siempre y cuando exista aviso
+por escrito con 30 d&iacute;as de anticipaci&oacute;n.
+</p><p><b>OCTAVA</b>.- PROHIBICI&oacute;N DE CESIONES.- Ni el CONTRATISTA ni la CONTRATANTE podr&aacute;n ceder
+o transmitir por cualquier t&iacute;tulo jur&iacute;dico sus derechos u obligaciones que se deriven del
+presente Contrato, sin el previo consentimiento de la otra parte.
+</p><p><b>NOVENA</b>.- AVISOS Y NOTIFICACIONES.- Todos los avisos, notificaciones, solicitudes,
+autorizaciones, consentimientos y adem&aacute;s comunicaciones que se requieran o se permitan dar
+conforme al presente Contrato, deber&aacute;n darse por escrito y se considerar&aacute; que se han dado:
+(a) al tener lugar la entrega personal, o (b) en el caso de que se env&iacute;en por telex o facs&iacute;mil,
+luego de la recepci&oacute;n, por parte del remitente, de una confirmaci&oacute;n electr&oacute;nica de la
+transmisi&oacute;n, o (c) en el caso de que se env&iacute;en por correo o mensajer&iacute;a, al recibirse. Las partes
+designan como domicilios convencionales para los efectos legales antes mencionados, los
+siguientes:
+</p><p>
+El CONTRATISTA: {contratista}, {contratistadomicilio}
+La CONTRATANTE:{contratante}...- AT’N: {representante}: {representantedomicilio}
+</p><p><b>DECIMA</b>.- ALCANCE DE LAS DECLARACIONES.- El CONTRATISTA y la CONTRATANTE
+convienen en que sus respectivas declaraciones en el presente Contrato los obligar&aacute;n, por lo
+que cada uno de ellos indemnizar&aacute; y sacar&aacute; en paz y a salvo a la contraparte correspondiente
+con respecto de los daños y perjuicios incurridos o sufridos por &eacute;sta última como
+consecuencia de alguna inexactitud en lo declarado por la otra parte.
+</p><p><b>DECIMA PRIMERA</b> . - Ser&aacute;n causas de rescisi&oacute;n del contrato imputables para la contratista:
+</p>
+<br/>a. El incumplimiento a la fecha de terminaci&oacute;n de la obra.
+<br/>b. El incumplimiento de las especificaciones indicadas en la orden de compra.
+<br/>c. El incumplimiento a las especificaciones del plano de obra.
+<br/>d. La falta de cumplimiento a las modificaciones de la obra debidamente firmadas entre el
+representante de la contratista y el supervisor de la obra contratante.
+Independientemente de la rescici&oacute;n del contrato las partes establecen como pena convencional
+un 6% del costo total de la obra contratada, la cual deber&aacute; pagar la contratista a la
+contratante sin requerimiento previo en el domicilio de la contratante.
+<p><b>DECIMA SEGUNDA</b>.- LEYES APLICABLES. En todo lo no previsto en el presente contrato se estar&aacute; a las
+disposiciones aplicables del C&oacute;digo Civil vigente para el Estado de Sinaloa.
+</p><p><b>DECIMA TERCERA</b>.- TRIBUNALES COMPETENTES. Para todo lo relacionado con la interpretaci&oacute;n,
+cumplimiento y ejecuci&oacute;n del presente Contrato, las partes se someten a la Jurisdicci&oacute;n de los
+Tribunales Competentes de la ciudad de Culiac&aacute;n, Sinaloa, renunciando al fuero de cualquier
+otro Tribunal que por raz&oacute;n de domicilio u otra causa pudiere corresponderle.
+En virtud de lo anterior, las partes celebran el presente Contrato de Prestaci&oacute;n de Servicios, 
+firm&aacute;ndolo por duplicado en la ciudad de {contratofirmadoen}, a los {contratofirmadoenfecha}.
+</p><p>
+<table>
+<tr>
+<td>El CONTRATISTA</td>
+<td>La CONTRATANTE</td>
+</tr>
+<tr>
+<td></td>
+<td><br/><br/></td>
+</tr>
+<tr>
+<td>{contratista}</td>
+<td>{contratante} Representada por {representante}</td>
+</tr>
+</table>
+<br/><br/><br/>
+<table>
+<tr>
+<td>TESTIGO</td>
+<td>TESTIGO</td>
+</tr>
+<tr>
+<td></td>
+<td><br/><br/></td>
+</tr>
+<tr>
+<td>{testigo1}</td>
+<td>{testigo2}</td>
+</tr>
+</table>
